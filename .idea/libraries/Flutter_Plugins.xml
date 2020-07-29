@@ -3,7 +3,9 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/git/streams_channel-577afeb8b24de780125e89d3ac8fcffe7b23e6c8" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.4+3" />
-      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_beacon-0.3.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/beacon_broadcast-0.2.1" />
+      <root url="file://$USER_HOME$/.pub-cache/git/beacons-64e84569b4429dc5282e1af8c9858d87bd832282" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
